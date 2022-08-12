@@ -299,12 +299,27 @@ video{
 }
 
 .img-galeria{
+  background-color: yellowgreen;
   object-fit: cover;
-  width: 30%;
+  width: 15%;
   display: block;
   margin-bottom: 15px;
   box-shadow: 0 0 6px rgba(0, 0, 0, .5);
   cursor: pointer;
+}
+.mmm{
+  position:fixed;
+  width:80px;
+  height:80px;
+  bottom:50px;
+  right:40px;
+  size: 800px;
+    z-index:100;
+    
+}
+
+.w-url{
+  margin-top:16px;
 }
 
 .imagen-light{
