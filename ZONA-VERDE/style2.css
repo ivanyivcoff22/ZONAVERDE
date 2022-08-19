@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+} 
+
+body{
+    background-color: lightgreen;
+}
+img{
+    max-width: 1000px;
+    max-height: 500px;
+}
+
+:root{
+    --facebook: #3b5999;
+    --instagram: #e4405f;
+    --twitter: #55acee;
+}
